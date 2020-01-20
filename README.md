@@ -1,2 +1,2 @@
-# hello-world
-練習
+＃你好，世界
+print('開始')
